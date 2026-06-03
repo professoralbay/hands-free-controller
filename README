@@ -1,12 +1,16 @@
 # Hands-Free Controller
 
-Real-time hand gesture control system. Control your computer using only hand movements - no keyboard or mouse needed.
+Real-time hand gesture system that allows you to control your computer using only hand movements — without keyboard or mouse.
 
-## Demo
+## Demo Video
 
-<video src="demo-video.mp4" controls width="700"></video>
+[▶️ Watch Demo](demo-video.mp4)
 
-[Watch Demo Video](demo-video.mp4)
+## Features
+- Cursor movement with index finger
+- Right-click with two fingers
+- Application control
+- Real-time hand tracking
 
 # El Hareketiyle Bilgisayar Kontrolu
 
